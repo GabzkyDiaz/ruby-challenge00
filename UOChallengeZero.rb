@@ -9,7 +9,7 @@ GST_RATE = 0.05
 PST_RATE = 0.07
 
 # Input
-sub_total = 20.00
+sub_total = 5.00
 
 # Calculations
 gst_amount = sub_total * GST_RATE
